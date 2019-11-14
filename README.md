@@ -26,7 +26,7 @@ LocalMotion will achieve the change for the future of Charlotte’s economic mob
 ### Running the App
 
 Clone the repo<br>
-`git clone https://github.com/regharris/Local-motion-hackathon.git`
+`git clone https://github.com/bshin9/LocalMotion`
 
 In the Terminal<br>
 `npm install`
