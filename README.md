@@ -44,4 +44,4 @@ Shirley Damiron<br>
 Juan Rosario
 
 #### LICENSE
-[MIT](https://github.com/regharris/Local-motion-hackathon/blob/master/LICENSE)
+[MIT](https://github.com/bshin9/LocalMotion/blob/master/LICENSE)
